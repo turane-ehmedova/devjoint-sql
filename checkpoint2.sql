@@ -1,0 +1,4 @@
+-- DevJoint Internship
+-- Checkpoint 2
+-- Topic:JOIN-lar (INNER, LEFT, lazım olarsa self-join) 3+ cədvəl üzrə
+-- Database: Northwind
