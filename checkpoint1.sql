@@ -4,6 +4,9 @@
 -- Database: Northwind
 
 
+-- Query 1:Customers cədvəlində olan bütün məlumatları göstərək.
+SELECT * FROM Customers; 
+
 -- Query 2:Customers cədvəlindən CompanyName, ContactName və Phone sütunlarını göstərək.
 SELECT CompanyName, ContactName, Phone FROM Customers;
 
