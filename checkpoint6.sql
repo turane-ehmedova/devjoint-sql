@@ -28,7 +28,7 @@ SELECT ProductName,
 WHERE Categories.CategoryID = Products.CategoryID) AS CategoryName
 FROM Products;
 
---Query 5:Query 3-dəki sorğunu INNER JOIN istifadə edərək
+--Query 5:Query 4-dəki sorğunu INNER JOIN istifadə edərək
 --daha səmərəli şəkildə yazaq.
 SELECT Products.ProductName, Categories.CategoryName
 FROM Products INNER JOIN Categories ON Products.CategoryID = Categories.CategoryID;
